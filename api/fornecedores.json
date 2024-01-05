@@ -44,6 +44,27 @@
         "endereco": "Praça da Matriz",
         "cidade": "Candiba",
         "uf": "Bahia"
+      },
+      {
+        "uuid": "adsfasfdasdfasdf",
+        "nome": "Toca do Badé",
+        "tags": ["hamburguer", "lances", "beirutes", "yakisoba"],
+        "geo": {
+          "lat": 0,
+          "lon": 0
+        },
+        "fotos": [
+          {
+            "src": "https://cdn.casaeculinaria.com/wp-content/uploads/2023/04/05163949/Hamburguer-artesanal.webp",
+            "default": true
+          }
+        ],
+        "nivel_precos": 1,
+        "estrelas": 5,
+        "descricao": "Maior variedade",
+        "endereco": "Praça da Matriz",
+        "cidade": "Candiba",
+        "uf": "Bahia"
       }
     ]
   }
