@@ -65,6 +65,27 @@
         "endereco": "Praça da Matriz",
         "cidade": "Candiba",
         "uf": "Bahia"
+      },
+      {
+        "uuid": "uopupupuipuiop",
+        "nome": "Supermercado Reis",
+        "tags": ["padaria", "mercearia"],
+        "geo": {
+          "lat": 0,
+          "lon": 0
+        },
+        "fotos": [
+          {
+            "src": "https://sennda.com.br/wp-content/uploads/2021/03/pexels-mehrad-vosoughi-3687999-770x366.jpg",
+            "default": true
+          }
+        ],
+        "nivel_precos": 1,
+        "estrelas": 5,
+        "descricao": "Estabelecimento tradicional",
+        "endereco": "Praça da liberdade",
+        "cidade": "Candiba",
+        "uf": "Bahia"
       }
     ]
   }
