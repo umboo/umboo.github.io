@@ -1,0 +1,49 @@
+{
+    "metadata": {
+      "expiracao": "2024-01-05T01:00:00"
+    },
+    "data": [
+      {
+        "uuid": "pqelavhsadpoksda",
+        "nome": "Doce docura",
+        "tags": ["doces", "bolos"],
+        "geo": {
+          "lat": 0,
+          "lon": 0
+        },
+        "fotos": [
+          {
+            "src": "https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971552_960_720.jpg",
+            "default": true
+          }
+        ],
+        "nivel_precos": 3,
+        "estrelas": 5,
+        "descricao": "Bolos e doces especiais",
+        "endereco": "Rua Jose Neves, 22",
+        "cidade": "Candiba",
+        "uf": "Bahia"
+      },
+      {
+        "uuid": "asdhfasdfhasdfhsadfas",
+        "nome": "Bar do Cajú",
+        "tags": ["lanches", "salgados", "churrasco"],
+        "geo": {
+          "lat": 0,
+          "lon": 0
+        },
+        "fotos": [
+          {
+            "src": "https://cdn.quasar.dev/img/chicken-salad.jpg",
+            "default": true
+          }
+        ],
+        "nivel_precos": 3,
+        "estrelas": 5,
+        "descricao": "Melhor bar da cidade",
+        "endereco": "Praça da Matriz",
+        "cidade": "Candiba",
+        "uf": "Bahia"
+      }
+    ]
+  }
